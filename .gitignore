@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+*.rrd
+*.svo2
+*.pkl
+*.jsonl
+replay_cache/
+rerun/
+cuvslam/
+semantic_map/
