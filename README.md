@@ -5,8 +5,10 @@ This repository hosts a compact GitHub Pages presentation for the semantic topom
 ## Pages
 
 - `docs/index.html`: entry page
-- `docs/nav_graph_visualization_3d.html`: 3D navigation graph
-- `docs/object3d_global_map.html`: Object3D global map
+- `docs/nav_graph_visualization_3d.html`: lightweight 3D navigation graph
+- `docs/object3d_global_map.html`: lightweight Object3D global map
+- `docs/nav_graph_visualization_3d_full.html`: full 3D navigation graph
+- `docs/object3d_global_map_full.html`: full Object3D global map
 
 ## GitHub Pages
 
